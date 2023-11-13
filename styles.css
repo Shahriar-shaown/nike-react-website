@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.navlogo img{
+    width: 291px;
+    height: 40px;
+}
+.navbg{
+    background-color: #FFF9F4;
+}
+.headimg{
+    width: 500px;
+}
+.headimglast{
+    width: 700px;
+    height: 425px;
+}
+.iconimg{
+    width: 71px;
+    height: 76px;
+}
